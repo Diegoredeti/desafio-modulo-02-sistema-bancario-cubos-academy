@@ -18,3 +18,6 @@ Da parte de transações, foi criado funções para Depositar, Transferir, Sacar
 API está rodando com o arquivo "bancodedados.js" para guardar os dados, futuramente será implementado o banco de dados.
 
 Para iniciar o projeto, rode o "npm run dev" para inicializar a aplicação e utilize o Insomnia para realizar as requisições HTTP para as rotas descritas no arquivo rotas.js
+
+![dfasdfasfd](https://github.com/Diegoredeti/desafio-modulo-02-sistema-bancario-cubos-academy/assets/104400340/ac66cd64-fe31-466f-801f-a9bddafb2e7e)
+![Captura de tela 2023-10-23 103833](https://github.com/Diegoredeti/desafio-modulo-02-sistema-bancario-cubos-academy/assets/104400340/e119b942-6669-462e-97db-568da306c369)
